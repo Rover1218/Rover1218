@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on DISCORD BOTS.
-- 🌱 I’m currently learning PYTHON.
+- 🔭 I’m currently working on Web development.
+- 🌱 I’m currently know Python, C.
 - 👯 I’m looking to collaborate on YOUTUBE.
 - 🤔 I’m looking for help with DISCORD BOTS.
 - 💬 Ask me about ANY TECH RELATED STUFF.
