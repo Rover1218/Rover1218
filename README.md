@@ -9,8 +9,7 @@ Currently learning Frontend Development. I am a self-taught developer. I have a 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio](http://rover-portfolio.vercel.app/)
 * ✉️  You can contact me at [anindyakanti04@gmail.com](mailto:anindyakanti04@gmail.com)
-* 🚀  I'm currently working on [Hyper Music](http://github.com/Rover1218/Hyper-Music)
-* 🧠  I'm learning HTML, CSS, API, APP DEV
+* 🧠  I'm learning BACKEND, WEB3
 * 🤝  I'm open to collaborating on Interesting Projects
 
 ### Skills
