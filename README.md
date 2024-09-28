@@ -7,7 +7,7 @@ I am a Student rn
 Currently learning Frontend Development. I am a self-taught developer. I have a passion for learning and sharing my knowledge with others as publicly as possible. Feel free to reach out if you want to talk about web development or just to say hi!
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Portfolio](http://rover-portfolio.vercel.app/)
+* 🖥️  See my portfolio at [My Portfolio](https://anindya-portfolio.vercel.app/)
 * ✉️  You can contact me at [anindyakanti04@gmail.com](mailto:anindyakanti04@gmail.com)
 * 🧠  I'm learning BACKEND, WEB3
 * 🤝  I'm open to collaborating on Interesting Projects
