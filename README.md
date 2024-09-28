@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a Student rn
 -----------------
 
-Currently learning Frontend Development. I am a self-taught developer. I have a passion for learning and sharing my knowledge with others as publicly as possible. Feel free to reach out if you want to talk about web development or just to say hi!
+Currently learning React. I am a self-taught developer. I have a passion for learning and sharing my knowledge with others as publicly as possible. Feel free to reach out if you want to talk about web development or just to say hi!
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio](https://anindya-portfolio.vercel.app/)
